@@ -1,0 +1,10 @@
+# python virtual environment
+venv/
+
+# byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv version file
+.python-version
